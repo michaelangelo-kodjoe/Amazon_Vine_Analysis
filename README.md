@@ -19,4 +19,8 @@ We can ask ourselves these questions from the analyis:
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   
   51% of vine reviews were 5 stars and 39% of non vine reviews were 5 stars
+  
+## Summary
+According to this analysis, one can say there is a positivity bias because comparing the number of votes for a 5 star review to a the helpful votes seems to be higher. This might indicate that some people might be giving votes for other reasons such as not actually reading and intending to put an honest review.
 
+One further analysis that can be made is to use the helpful_votes to narrow down the accuracy of the total votes. that way we can have a true idea of what the actual total votes is.
